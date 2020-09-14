@@ -1,5 +1,5 @@
 /**
- *
+ * This program prints out Hello World to the screen
  * @author 
  */
 public class Main {
@@ -9,7 +9,8 @@ public class Main {
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    // TODO code application logic here
+    // Prints Hellow World to the screen
+    System.out.println("Hello world");
     
   }
 }
