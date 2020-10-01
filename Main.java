@@ -1,6 +1,6 @@
 /**
  * This program prints out Hello World to the screen
- * @author 
+ * @author  
  */
 public class Main {
 
